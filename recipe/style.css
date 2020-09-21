@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+	font-size: 70px;
+}
+
+h2 {
+	color: rgb(240,150,20);
+}
+
+img {
+	width: 220px;
+	opacity: 0.85;
+}
+
+p {
+	width: 400px;
+}
+
+ol {
+	background-color: rgb(200,200,220);
+	width: 370px;
+}
