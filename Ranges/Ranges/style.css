@@ -1,0 +1,178 @@
+.r1 {
+	height: 180px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+.r2 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+.r3 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 160px;
+	left: 160px;
+}
+
+.r4 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+.r5 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 280px;
+	left: 160px;
+}
+
+.r6 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 220px;
+}
+
+.a1 {
+	height: 60px;
+	width: 120px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 410px;
+}
+
+.a2 {
+	height: 240px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 160px;
+	left: 350px;
+}
+
+.a3 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 470px;
+}
+
+.a4 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 220px;
+	left: 410px;
+}
+
+.n1 {
+	height: 60px;
+	width: 120px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 660px;
+}
+
+.n2 {
+	height: 240px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 160px;
+	left: 600px;
+}
+
+.n3 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 720px;
+}
+
+.g1 {
+	height: 60px;
+	width: 120px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 850px;
+}
+
+.g2 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 850px;
+}
+
+.g3 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 850px;
+}
+
+.g4 {
+	height: 120px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 280px;
+	left: 970px;
+}
+
+h1 {
+	color: rgb(0,0,0);
+	width: 500px;
+	font-family: Helvetica;
+	font-size: 45px;
+	line-height: 30px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	position: absolute;
+	top: 470px;
+	left: 100px;
+}
+
+p {
+	color: rgb(0,0,0);
+	width: 500px;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	position: absolute;
+	top: 535px;
+	left: 100px;
+}
