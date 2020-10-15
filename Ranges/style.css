@@ -1,0 +1,504 @@
+.shape {
+	position: absolute;
+	background-color: rgb(0,0,0);
+}
+
+.rbox:hover .shape {
+	background-color: rgb(230,20,60);
+}
+
+.r1 {
+	height: 180px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+
+.r2 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+
+.r3 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 160px;
+	left: 110px;
+}
+
+.r4 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+
+.r5 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 280px;
+	left: 110px;
+}
+
+.r6 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 170px;
+}
+
+.r7 {
+	height: 20px;
+	width: 30px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 80px;
+}
+
+.r8 {
+	height: 40px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 70px;
+}
+
+.abox:hover .shape {
+	background-color: rgb(255,127,0);
+}
+
+.a1 {
+	height: 180px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 280px;
+}
+
+.a2 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 160px;
+	left: 340px;
+}
+
+.a3 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 400px;
+}
+
+.a4 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 280px;
+}
+
+.a5 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 100px;
+	left: 280px;
+}
+
+.a6 {
+	height: 20px;
+	width: 30px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 310px;
+}
+
+.a7 {
+	height: 40px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 300px;
+}
+
+.nbox:hover .shape {
+	background-color: rgb(255,246,143);
+}
+
+.n1 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 510px;
+}
+
+.n2 {
+	height: 240px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 160px;
+	left: 510px;
+}
+
+.n3 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 630px;
+}
+
+.n4 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 100px;
+	left: 510px;
+}
+
+.n5 {
+	height: 20px;
+	width: 30px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 540px;
+}
+
+.n6 {
+	height: 40px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 530px;
+}
+
+.gbox:hover .shape {
+	background-color: rgb(202,255,112);
+}
+
+.g1 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 740px;
+}
+
+.g2 {
+	height: 300px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 740px;
+}
+
+.g3 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 740px;
+}
+
+.g4 {
+	height: 120px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 280px;
+	left: 860px;
+}
+
+.g5 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 340px;
+	left: 740px;
+}
+
+.g7 {
+	height: 30px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 760px;
+}
+
+.g8 {
+	height: 20px;
+	width: 40px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 360px;
+	left: 760px;
+}
+
+.g9 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 100px;
+	left: 740px;
+}
+
+.g10 {
+	height: 20px;
+	width: 40px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 760px;
+}
+
+.g11 {
+	height: 40px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 760px;
+}
+
+.ebox:hover .shape {
+	background-color: rgb(0,255,255);
+}
+
+.e1 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 970px;
+}
+
+.e2 {
+	height: 120px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 160px;
+	left: 970px;
+}
+
+.e3 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 220px;
+	left: 1030px;
+}
+
+.e4 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 970px;
+}
+
+.e5 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 280px;
+	left: 970px;
+}
+
+.e6 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 220px;
+	left: 970px;
+}
+
+.e7 {
+	height: 60px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 220px;
+	left: 990px;
+}
+
+.e8 {
+	height: 20px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 240px;
+	left: 1010px;
+}
+
+.sbox:hover .shape {
+	background-color: rgb(147,112,219);
+}
+
+.s1 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 100px;
+	left: 1200px;
+}
+
+.s2 {
+	height: 120px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 160px;
+	left: 1200px;
+}
+
+.s3 {
+	height: 60px;
+	width: 120px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 220px;
+	left: 1200px;
+}
+
+.s4 {
+	height: 180px;
+	width: 60px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 220px;
+	left: 1320px;
+}
+
+.s5 {
+	height: 60px;
+	width: 180px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 1200px;
+}
+
+.s6 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 100px;
+	left: 1200px;
+}
+
+.s7 {
+	height: 60px;
+	width: 60px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 340px;
+	left: 1320px;
+}
+
+.s8 {
+	height: 20px;
+	width: 30px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 1230px;
+}
+
+.s9 {
+	height: 40px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 120px;
+	left: 1220px;
+}
+
+.s10 {
+	height: 30px;
+	width: 20px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 340px;
+	left: 1340px;
+}
+
+.s11 {
+	height: 20px;
+	width: 40px;
+	background-color: rgb(0,0,0);
+	position: absolute;
+	top: 360px;
+	left: 1320px;
+}
+
+h1 {
+	color: rgb(0,0,0);
+	width: 500px;
+	font-family: Helvetica;
+	font-size: 45px;
+	line-height: 30px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	position: absolute;
+	top: 420px;
+	left: 50px;
+}
+
+p {
+	color: rgb(0,0,0);
+	width: 500px;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	position: absolute;
+	top: 485px;
+	left: 50px;
+}
